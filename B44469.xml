@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Walter Williams and Elizabeth his wife late wife and executrix of William Reed, deceas'd. [brace] appellants.  Richard Reed the younger, Sir William Gregory, and Richard Wytherstone, [brace] defendants. The case of the appellants, upon the order of the Lords in Parliament, dated the 3d. of January, 1690.  Whereby the said appeal was refer'd to the Barons of the Exchequer, to be heard, and determined.</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B44469</idno><idno type="EEBO-CITATION">690988974</idno>
+  <idno type="VID">211780</idno>
+  <idno type="EEBO-PROQUEST">2248534319</idno>
+  
+            <idno type="OCLC"> 690988974</idno>
+            <idno type="OCLC">ocn 690988974</idno>
+            <idno type="STC">Wing W2773B</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B44469)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 211780)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2987:20)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Walter Williams and Elizabeth his wife late wife and executrix of William Reed, deceas'd. [brace] appellants.  Richard Reed the younger, Sir William Gregory, and Richard Wytherstone, [brace] defendants. The case of the appellants, upon the order of the Lords in Parliament, dated the 3d. of January, 1690.  Whereby the said appeal was refer'd to the Barons of the Exchequer, to be heard, and determined.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Beinecke Rare Book and Manuscript Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Reed, William, d. 1676 --  Estate --  Early works to 1800.</term>
+               <term type="topical_term">Decedents' estates --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb facs="tcp:211780:1"/>
+            <pb facs="tcp:211780:2"/>
+            <argument>
+               <list>
+                  <item>
+                     <hi>Walter Williams</hi> and <hi>Elizabeth</hi> his Wife late Wife and Executrix of <hi>William Reed,</hi> Deceas'd. <label>Appellants.</label>
+                  </item>
+               </list>
+               <list>
+                  <item>
+                     <hi>Richard Reed</hi> the Younger, <label>Defendant.</label>
+                  </item>
+                  <item>Sir <hi>William Gregory,</hi>
+                     <label>Defendant.</label>
+                  </item>
+                  <item>and <hi>Richard Wytherstone,</hi>
+                     <label>Defendant.</label>
+                  </item>
+               </list>
+            </argument>
+            <head> The CASE of the <hi>Appellants,</hi> upon the Order of the Lords in Parliament, Dated the 3d. of <hi>January,</hi> 1690. Whereby the said Appeal was refer'd to the Barons of the <hi>Exchequer,</hi> to be Heard, and Determined.</head>
+            <p>
+               <hi>JOhn Reed</hi> of <hi>Mitton,</hi> Esquire, Deceas'd, having Mortgaged the two Meadows in Question, (worth 100 <hi>l. per Annum</hi>) to his Sister <hi>Katherine Reed,</hi> for 99 Years, from the 1st. of <hi>April,</hi> 1612. for securing the Payment of 500 <hi>l.</hi> and Interest at the Rate of 10 <hi>l. per Cent.</hi> as Interest then was, the said <hi>John Reed</hi> for 500 <hi>l.</hi> more, by Deed dated the 22d. of <hi>May,</hi> 16 <hi>Jac.</hi> 1. 1618 made the said term of 99 Years in the Meadows absolute to <hi>Katherine,</hi> the residue of which Term, by the Will of the said <hi>Katherine;</hi> and by several mean Assignments in pursuance of that Will, and a constant Possession pursuant thereunto, and by the Consent and Approbation of the Defen<g ref="char:EOLhyphen"/>dant, <hi>Richard Reed</hi> the younger, and long after his Pretences (which if true, amount but to a Trus<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) came to be vested in the Defendants, <hi>Gregory</hi> and <hi>Wytherstone</hi> on the 30th. of <hi>November,</hi> 1674. in Trust for the said <hi>William Reed,</hi> as to all the Profits of the said Meadows, except 20 <hi>l. per An.</hi> which 20 <hi>l. per An.</hi> was given to the Poor of <hi>Breedon,</hi> by the said <hi>Katherine Reed,</hi> during the said Term.</p>
+            <p>In <hi>September,</hi> 1675. the said <hi>William Reed</hi> (being in Possession of the Meadow,) made his last Will and Testament in Writing, and thereby gave all his Goods and Chattels, after his Debts and Legacies paid, to the Appellant <hi>Elizabeth</hi> his then Wife, and in <hi>February</hi> following D<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed, whereby the said <hi>Elizabeth</hi> was intitled to all the Profits of the Meadows, except 20 <hi>l. per. An.</hi> for the residue of the 99 Years, and depending thereupon, paid 200 <hi>l.</hi> more than all <hi>VVilliam</hi>'s other per<g ref="char:EOLhyphen"/>sonal Estate, before she heard of any pretence of the Defendants.</p>
+            <p>But the said <hi>Gregory</hi> and <hi>VVytherstone</hi> without any direction from the said <hi>VVilliam Reed</hi> for so doing, in breach of the Trust repos'd in them, made a Deed of Declaration, that they stood possess'd of the Meadows for the residue of the 99 Years from the 1st. of <hi>Novem<g ref="char:EOLhyphen"/>ber,</hi> 1679. in Trust for the Defendant <hi>Reed.</hi>
+            </p>
+            <p>And the Defendant <hi>Reed</hi> having exhibited a Bill in Chancery against the said <hi>Elizabeth,</hi> to compel her to Assign all her Interest in the Mea<g ref="char:EOLhyphen"/>dows in Question, to him, and she having exhibited a Bill against him, and the other Defendants, <hi>Gregory</hi> and <hi>VVytherstone,</hi> to compel them to Assign to her; it was Decreed the 26th of <hi>June,</hi> 1680. That the said <hi>Elizabeth</hi> being then in Possession of the Meadows, should As<g ref="char:EOLhyphen"/>sign all their Interest to the now Defendant <hi>Reed,</hi> and her Bill against him, and the other Defendants, <hi>Gregory</hi> and <hi>VVytherstone,</hi> to compel them to Assign to her, was dismiss d, and the Appellant, <hi>VValter VVilliams,</hi> and she inter-marrying before she had Assign'd, they were both committed to the Prison of the <hi>Fleet,</hi> and there forc'd to As<g ref="char:EOLhyphen"/>sign all their Interest in the Meadows to the Defendant <hi>Reed</hi> for no<g ref="char:EOLhyphen"/>thing.</p>
+            <p>From this Decree in 1680. the said <hi>VValter VVilliams,</hi> and <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> Appeal'd to your Lordships, and from another Decree made in 1639. which though it was Erroneous, and could never be put in Ex<g ref="char:EOLhyphen"/>ecution, yet was partly made a Colour for the Decree in 1680. and the Cause upon the said Appeal was appointed to be heard before your Lordships the 14th. of <hi>November,</hi> 1685. but upon the Defendant <hi>Reed</hi>'s pretending he could not be ready, the Appellant consented, that the Cause should be put off to the 24th. of the said Month, before which Day, the Parliament was Adjourn'd, or Prorogued, and afterwards Dissolv'd, since which time, the Appellants could not procure the said Appeal to be brought to Hearing until the 26th. of <hi>March,</hi> 1689.</p>
+            <p>But the Appellant, <hi>VValter VVilliams,</hi> having Notice some time be<g ref="char:EOLhyphen"/>fore that Day, that the said Sir <hi>VVilliam Gregory</hi> was chose a Mem<g ref="char:EOLhyphen"/>ber of the House of Commons, he apply'd himself to the House of Commons, for their Leave to proceed against the said Sir <hi>VVilliam Gregory</hi> upon the said Appeal, but the House of Commons would not give leave, though, as the Appellant was inform'd, the House would have given Leave, if the said Sir <hi>VVilliam Gregory</hi> would have ask'd it himself, but that he would not do, though the Appellant inform'd both him and the other Defendant <hi>Reed</hi> several days before the Hearing, that he durst not proceed without the Leave of the House of Com<g ref="char:EOLhyphen"/>mons, and the Appellant on the said 26th. of <hi>March,</hi> 1689, by his Council, pray'd your Lordships, that the Cause upon the Appeal might be Adjourn'd for a Fortnight, to see, if in the mean time, he might get the Leave of the House of Commons, or else, that the Matter might rest until such time as Sir <hi>VVilliam</hi> were not a Member of the House of Commons, but the Defendant's Council press'd your Lordships to dismiss the said Appeal, if the Appellants would not then proceed, and to induce your Lordships thereunto, they affirm'd, that Sir <hi>VVil<g ref="char:EOLhyphen"/>liam Gregory</hi> had releas'd to the Defendant <hi>Reed,</hi> and that therefore there wa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> no necessity for the Appellants to proceed against Sir <hi>VVil<g ref="char:EOLhyphen"/>liam Gregory,</hi> though in Truth, Sir <hi>VVilliam</hi> had not then releas'd, as himself afterwards confess'd, though he had made a Declaration con<g ref="char:EOLhyphen"/>trary to the Trust repos'd in him, and if he had releas'd, that did not b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r the Appellant's from their Appeal against him, but h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d been a further aggravation against him, as being a further breach of Trust; yet nevertheless they prevailed with your Lordships to dismiss the said Appeal, because the Appellants durst not then adventure to proceed without the leave of the Commons.</p>
+            <p>Afterwards, upon the Appellants representing to your Lordships what great differences formerly hapned between both Houses in the Case of <hi>Sherley</hi> and <hi>Fagg;</hi> for <hi>Sherley</hi>'s proceeding in an Appeal against <hi>Fagg,</hi> then a Member, without the leave of the Commons; and that it might have been made use of to have raised the like differences again, in case the Appellants had proceeded against Sir <hi>William Gregory,</hi> with<g ref="char:EOLhyphen"/>out the leave of the Commons, which might have been very prejudi<g ref="char:EOLhyphen"/>cial to the Government at that time, therefore your Lordships retained the said Appeal; and because it was then so near the end of the Session, as the Defendants could not have timely notice if your Lordship<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had appointed a short day for hearing: and in regard the Appellants had been so long delay'd, your Lordships, by O<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der of the 3d of <hi>Ja<g ref="char:EOLhyphen"/>nuary,</hi> 1690. referred the said Appeal to the Barons of the Exchequer, to be heard and determined.</p>
+            <p>Whereupon the Appellants, on the 23d. of <hi>January</hi> moved the Barons of the Exchequer to appoint a day for hearing the said Appeal; at which time Baron <hi>Lechmore</hi> opposed it, and declared he thought your Lordships could not delegate any Authority to hear that Appeal: But the other three Barons being then of the contrary opinion, they appointed the Appeal to be heard the day of hearing Causes next after <hi>Hillary</hi>-Term last. But afterwards, upon the Defendant <hi>Reed's</hi> Affi<g ref="char:EOLhyphen"/>davit of his being an old Man, and living 100 mile from <hi>London,</hi> the Barons so far indulged him, as upon his request to put off the Cause several times, and to agree to his own time for hearing thereof. And on the 26th of <hi>May</hi> Councel on both sides were heard before the Ba<g ref="char:EOLhyphen"/>rons, upon the said Appeal: But the Lord Chief-Baron being that day obliged to attend in the House of Lords, he could not stay to hear the Proofs read, and therefore the Cause was adjourned for a further hear<g ref="char:EOLhyphen"/>ing until the 15th of <hi>June,</hi> 1691. on which day Councel for both sides appearing, the Councel for the Defendant insisted upon it, That your Lordships had not power to delegate, and that your Lordships Order of Reference was obtained by surprize: and Mr. Baron <hi>Lechmore</hi> re<g ref="char:EOLhyphen"/>peating his former opinion, That your Lordships had not power to delegate, and protesting against hearing the Cause, Mr. Baron <hi>Turton,</hi> though with great difficulty, declared himself of the same opinion: So the Barons being equally divided, Two <hi>for</hi> hearing, and Two <hi>against</hi> it, the Cause was no further heard, nor any Judgment given.</p>
+            <p>The Appellants conceive your Lordships may delegate any Cause before you, except Causes upon Writs of Error to any of the Judges, for these Reasons:</p>
+            <p n="1">1. For that the Appellants conceive, That the King is always either virtually or personally present in the House of Lords in Parliament as<g ref="char:EOLhyphen"/>sembled, and that there he is in his highest Judicial Capacity, and therefore the Orders of the House of Lords are in the eye of the Law the Orders of the King and Lo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ds, and the King may delegate in all Temporal Causes by the Common-Law. <bibl>
+                  <hi>Bract.</hi> 108.412.</bibl>
+            </p>
+            <p n="2">2. For that what hath been the Common Usage of the Kingdom, is the Law of the Kingdom; and that Causes have been referr'd by Order of the House of Lords, time out of mind, sometimes to the Chancellor and some of the Judges, and sometimes to some of the Judges only; and that as frequently to determine the matter, as to report to the House, as appears by the Parliament-Rolls and Jou<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nals hereafter mentioned; <hi>viz.</hi>
+               <bibl>3 <hi>H.</hi> 5. <hi>n.</hi> 18. </bibl>
+               <bibl>
+                  <hi>Ibidem, n.</hi> 49.</bibl>
+               <bibl>8 <hi>H.</hi> 6. <hi>n.</hi> 45.</bibl>
+               <bibl>
+                  <hi>Lords Journals</hi> 28 29 <hi>of May,</hi> 1624.</bibl>
+               <bibl>17 <hi>No.</hi> 1666.</bibl>
+               <bibl>29 <hi>No.</hi> 1664.</bibl>
+               <bibl>24 <hi>Octob.</hi> 1667.</bibl>
+               <bibl>25 <hi>March,</hi> 1669,</bibl>
+               <hi>&amp;c.</hi> And the reason thereof may be grounded upon what is cited in <bibl>
+                  <hi>Cooke's Institutes,</hi> fo. 11.</bibl> out of the ancient Trea<g ref="char:EOLhyphen"/>tise, <hi>De modo tenendi Parliamenti.</hi> viz. The Parliament ought not to be ended while any Petition remaineth undiscuss'd, or at least to which a determinate Answer is not given; and therefore such Causes as can<g ref="char:EOLhyphen"/>not be determined in the House of Lords sitting the Parliament, ought rather to be referred to competent Judges, than that Justice should be delay'd until the next meeting of the Parliament.</p>
+            <p>If it be objected, That the Lords having once dismissed the Appeal, it ought not to be retained, because if the Lords alter their Orders, there will be no end of business:</p>
+            <p>In answer thereto, It is hoped the Lords will not alter the Law; and that the Law is, That Errors in Parliament ought to be rectified in another Session, or in another Parliament, see <bibl>21 <hi>E.</hi> 3. 46. <hi>Broo. tit.</hi>
+               </bibl>
+               <bibl>
+                  <hi>Error</hi> 66, 68.</bibl>
+               <bibl>
+                  <hi>Crompt. Jurisdiction,</hi> fo. 12.</bibl>
+               <bibl>
+                  <hi>Lord Hollis's Case stated,</hi> fo. 65.</bibl> which last was as great a Champion for the Jurisdiction of the Lords, as any whatsoever.</p>
+            <p>If it should pass for a standing Rule, That all Orders of the Lords House should be perpetually binding, and not alterable, tho grounded upon false P<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oofs or Informations, there will be those that will not fail to invent, affirm, and sweir such false suggestions, as will require time to disprove; and if it should not be admitted to disprove them, I doubt we may soon bid farewell to all Justice.</p>
+            <p>And as to the Objection that was made, That if the Barons had heard the Cause in hand, and made a Decree therein, they could not have put it in execution: It is conceived, That if they could not, yet those that then should have the Custody of the Great Seal ought to have put their Decree in execution; for there are many Presidents in many Reigns, That the King out of Parliament hath referred Chancery-Decrees to some of the Judges and the Chancery hath always pursued the Opi<g ref="char:EOLhyphen"/>nion and Judgment of those Judges, <hi>à fortiore.</hi> Therefore if the King in Parliament refers any Appeal from Chancery-Decrees, the Chancery ought to pursue the Opinion and Judgment of those Referees; the Re<g ref="char:EOLhyphen"/>ference of the House of Lords being the King's Reference in his Supreme Judicial Capacity, as is afore-shew'd.</p>
+            <p>It is said, That the Prorogation hapning before the Cause was throw<g ref="char:EOLhyphen"/>ly heard, determined the Power given the Barons, in case they had any by your Lordships Order. As to which, much may be said against that opinion in all Cases of this nature: but there's a particular reason in this Case, that the Barons Power should not be determin'd; and that is this:</p>
+            <p>This Cause was appointed to be heard, and should have been heard the sitting after <hi>Hillary</hi>-Term; and the Defendants by their Councel, on the 10th of <hi>February,</hi> pray'd it might be put off until <hi>Easter</hi>-Term, and agreed to hear it then; and upon that offer and request, the Cause was put off until the first <hi>Monday</hi> in <hi>Easter</hi>-Term: And afterwards, on the first of <hi>May,</hi> the Defendant <hi>Reed</hi> pretending extraordinary busi<g ref="char:EOLhyphen"/>ness, that he could not come to <hi>London</hi> by the first <hi>Monday</hi> in <hi>Easter</hi>-Term, the Defendants by their Councel pray'd, That the hearing of the Cause might be put off for a fortnight longer, and again undertook they would peremptorily hear it then: So that their own Agreement gives the Barons a Jurisdiction, in case the Jurisdiction they had by your Lordships Order did determine by Prorogation.</p>
+            <closer>Of all which your Lordships Consideration is humbly pray'd▪</closer>
+            <pb facs="tcp:211780:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
